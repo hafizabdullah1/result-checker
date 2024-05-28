@@ -1,0 +1,80 @@
+{
+  "students": [
+    {
+      "urdu": "23",
+      "english": "23",
+      "islamiyat": "23",
+      "pak_studies": "3",
+      "math": "23",
+      "physics": "32",
+      "chemistry": "32",
+      "computer": "32",
+      "name": "Mehar Arain",
+      "class": "33",
+      "id": "453"
+    },
+    {
+      "urdu": "43",
+      "english": "43",
+      "islamiyat": "43",
+      "pak_studies": "43",
+      "math": "43",
+      "physics": "43",
+      "chemistry": "43",
+      "computer": "4",
+      "name": "Abdullah",
+      "class": "12",
+      "id": "112"
+    },
+    {
+      "urdu": "21",
+      "english": "21",
+      "islamiyat": "2",
+      "pak_studies": "21",
+      "math": "21",
+      "physics": "21",
+      "computer": "2",
+      "chemistry": "21",
+      "name": "a",
+      "class": "12",
+      "id": "111"
+    },
+    {
+      "urdu": "23",
+      "english": "32",
+      "islamiyat": "32",
+      "pak_studies": "32",
+      "math": "32",
+      "physics": "32",
+      "chemistry": "32",
+      "computer": "32",
+      "name": "test",
+      "class": "21",
+      "id": "1233"
+    },
+    {
+      "urdu": "23",
+      "english": "12",
+      "islamiyat": "31",
+      "pak_studies": "21",
+      "math": "32",
+      "physics": "42",
+      "chemistry": "32",
+      "computer": "32",
+      "id": "cuPS9qu"
+    },
+    {
+      "urdu": "10",
+      "english": "50",
+      "islamiyat": "30",
+      "pak_studies": "23",
+      "math": "60",
+      "physics": "42",
+      "chemistry": "16",
+      "computer": "22",
+      "name": "asad Ur Rehman",
+      "class": "10",
+      "id": "6000772"
+    }
+  ]
+}
